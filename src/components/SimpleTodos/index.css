@@ -1,0 +1,41 @@
+.app-container{
+    background-color: #ffc2a0;
+    background-size: cover;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 40px;
+    padding-right: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.todo-container{
+    background-color: #ffffff;
+    background-size: cover;
+    padding: 30px;
+    width: 80%;
+    border-radius: 10px;
+    border-width: 0px; 
+}
+
+h1{
+    color: #ff8542;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.un-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.unorder-container{
+    list-style-type: none;
+    padding-left: 0px;
+    width: 60%;
+}

@@ -1,0 +1,25 @@
+p {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: bold;
+}
+.delete-button {
+  background-color: #ffffff;
+  color: #ff0b37;
+  font-family: 'Roboto';
+  font-size: 15px;
+  border-radius: 8px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #ff0b37;
+  height: 30px;
+  width: 80px;
+  margin-top: 12px;
+  cursor: pointer;
+}
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
